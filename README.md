@@ -1,0 +1,2 @@
+# Data Analysis Using Mysql and Power BI
+ Welcome to the Data Analysis Projects Repository! This repository serves as a centralized hub for all my data analysis projects, leveraging MySQL for database management and PowerBI for comprehensive visualizations. Each project within this repository aims to explore and extract meaningful insights from various datasets, enabling informed decision-making and strategic planning.
